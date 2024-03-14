@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mobileweb terbaru"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.873">
+    <properties></properties>
+
+
+
+            <testcase
+                name="loginMobileWeb"
+                time="0.873"
+                classname="Test.LoginTest">
+            </testcase>
+</testsuite>
